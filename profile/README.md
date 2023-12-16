@@ -29,5 +29,6 @@ This is where I share a lot of my projects that I work on, while learning new st
 <a href="http://mongodb.com"><img style="height: 5rem" src="https://user-images.githubusercontent.com/52240895/231943518-5b0a86db-6590-493d-8f55-3efbf8866505.png" alt="mongodb" /></a>
 <a href="http://prisma.io"><img style="height: 5rem" src="https://user-images.githubusercontent.com/52240895/231944135-7d1c0538-75c3-4f2a-9c77-3a9b651467fe.png" alt="prisma" /></a>
 <a href="http://reactnative.dev"><img style="height: 5rem" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="react native" /></a>
+<a href="http://reactnative.dev"><img style="height: 5rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_go_gopher_icon_130571.png" alt="golang" /></a>
 </div>
 
