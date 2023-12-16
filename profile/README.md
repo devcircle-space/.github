@@ -1,8 +1,6 @@
-# Hi 👋 This is us!
+# 👋 Hey there! 
 
-**TheDevDesigner** started as just me coining a word for being both a designer and a developer. But that gradually changed, as I gained more and more professional experience (personally) and started transitioning into the role of a mentor. I am not a seasoned mentor, neither am a _know it all_ kinda one.
-
-My aim, as a developer, designer, and an individual is simple; help those who are new in this industry to navigate these waters, and grow to become great problem solvers and human beings.
+This place originally started as `thedevdesigner`, which I renamed/rebranded to `devcircle.space`. Why? Well, I see myself to have matured over time, and have got a strong foothold in this world of sofware, design and development. I originally stared this as a place for me to simply share what I learn with everyone else. Though that still remains unchanged, I also know that I've got a keen sense of teaching, which I am doing along my role as Senior Software Engineer. If you wanna work/learn with me, you'll automatically enter this space.
 
 ## What to expect here?
 
@@ -19,6 +17,7 @@ This is where I share a lot of my projects that I work on, while learning new st
 - MongoDB
 - Prisma
 - React Native (with expo)
+- Golang (currently learning)
 
 <div style="display:flex">
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img style="height: 5rem" src="https://user-images.githubusercontent.com/52240895/231942458-b396bfb4-f1e1-429c-a362-d98f97d2dc43.png" alt="css"/></a>
